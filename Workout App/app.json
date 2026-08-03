@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Back to Athlete",
+    "slug": "back-to-athlete",
+    "scheme": "backtoathlete",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#07111f"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["expo-router"],
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
